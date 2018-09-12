@@ -21,6 +21,7 @@ Primary Function - Settings
 Primary Function - Panic Button
 - allow user to do a quick search their prefered baby site
 - intended for searches when doctor is unavailable or unecessary to contact
+
 -- ie baby spit up after feeding - can check webmd to see a course of action
 -- This is not intended to be any form of medical advice 
 
