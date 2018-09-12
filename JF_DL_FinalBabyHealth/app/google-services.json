@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536834701412",
+    "firebase_url": "https://jfdlfinalbabyhealth.firebaseio.com",
+    "project_id": "jfdlfinalbabyhealth",
+    "storage_bucket": "jfdlfinalbabyhealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536834701412:android:0d2000bd76d097ae",
+        "android_client_info": {
+          "package_name": "com.example.clyste.jf_dl_final_babyhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536834701412-6vit67pmmbrlhibvlf4gkifn37femngf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clyste.jf_dl_final_babyhealth",
+            "certificate_hash": "b17a23dba7f4fb0852b55ffc57f9fa05e8fec5d7"
+          }
+        },
+        {
+          "client_id": "536834701412-dl2fdb9apgbplbcgciu36pcpd27rl0pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe_z1XQrPCN1ra0RdgyaAJQXazZNFirdk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536834701412-dl2fdb9apgbplbcgciu36pcpd27rl0pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

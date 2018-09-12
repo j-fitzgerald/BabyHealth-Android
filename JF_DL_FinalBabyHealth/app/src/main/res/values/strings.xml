@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">JF_DL_Final-BabyHealth</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+    <!--SELECT BABY-->
+    <string name="addBabyButton">New Baby</string>
+
+    <!--CREATE NEW BABY -->
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="submitButton">Submit</string>
+
+    <!--EVENTS-->
+    <string name="feedingTitle">Feeding Event</string>
+    <string name="volume">Enter Volume</string>
+    <string name="start">Start</string>
+    <string name="duration">Duration</string>
+    <string name="invalidVolume">Please enter a Volume</string>
+    <string-array name="eventTypesArray">
+        <item>feeding</item>
+        <item>diaper</item>
+    </string-array>
+    <string name="diaperTitle">Diaper Event</string>
+    <string name="diaperContents">Diaper Contents</string>
+    <string name="pee">Pee</string>
+    <string name="poop">Poop</string>
+    <string name="poopColors">Poop Colors</string>
+    <string-array name="colors">
+        <item>brown</item>
+        <item>black</item>
+        <item>red</item>
+        <item>green</item>
+        <item>yellow</item>
+    </string-array>
+    <string name="home">Home</string>
+    <string name="end">Record Event</string>
+    <string name="enterVolume">Enter Volume Fed</string>
+
+    <!--Add User-->
+    <string name="enterEmail">Enter E-mail</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+    <string name="invalidEmail">Invalid Email</string>
+
+    <!--Timer-->
+    <string name="initial">00:00:00</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="record">Record Time</string>
+
+    <!--PREFERENCES-->
+    <string name="volumeUnits">Select Units for Volume</string>
+    <string name="milliliters">Milliliters</string>
+    <string name="ounces">Ounces</string>
+    <string name="saveSuccess">User Preferences Saved</string>
+    <string name="selectWebsite">Preferred Search Site</string>
+    <string name="webMD">Web MD</string>
+    <string name="expect">What To Expect</string>
+    <string name="kelly">Kelly Mom</string>
+    <string name="bump">The Bump</string>
+
+    <!--PANIC-->
+    <string name="search">Search</string>
+    <string-array name="symptoms">
+        <item>Fever</item>
+        <item>Diarrhea</item>
+        <item>Colic</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Now Playing a song</string>
+    <string name="select_photo">Choose Avatar</string>
+
+</resources>
